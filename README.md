@@ -2,7 +2,7 @@
 Sketch App Plugin for Quasar [WIP]
 
 ## WHY?
-This plugin for Sketch should serve as middleware between your Quasar Project, its Storybook and Sketch.
+This plugin for Sketch should serve as middleware between your Quasar Project, its Storybook and Sketch. Here is a good read about that: https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526
 
 ## Notes
 Things to think about for the future of docs and unifying sketch with quasar...
